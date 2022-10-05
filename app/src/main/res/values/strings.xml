@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jeu de Devinette</string>
+    <string name="guess">Deviner le Nombre Caché</string>
+    <string name="newgame">Nouvelle Partie</string>
+    <string name="validate">Valide</string>
+
+</resources>
