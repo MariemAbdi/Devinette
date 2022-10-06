@@ -1,8 +1,6 @@
 # Devinette
 Kotlin Practice Quiz Game
 
-</p>
-
 ![Screenshot_20221006-135858_Jeu de Devinette](https://user-images.githubusercontent.com/100727442/194319556-a7c68716-75d2-43fe-91a1-ab62a97c161e.jpg)
 
 
