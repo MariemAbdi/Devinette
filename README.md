@@ -19,8 +19,3 @@ Kotlin Practice Quiz Game
 <img src="https://user-images.githubusercontent.com/100727442/194319194-c97734b2-17f5-455c-bd38-873efc76cebf.jpg" width="300">
 <img src="https://user-images.githubusercontent.com/100727442/194319390-6e439e33-ec1f-472f-bd12-52643a399066.jpg" width="300">
 </p>
-
-<p float="left" align="center">When The Input Is Less Than The Random Number</p>
-
-<p float="left" align="center">When The Input Is Bigger Than The Random Number</p>
-<p float="left" align="center">When The Input Is Equal To The Random Number</p>
