@@ -22,11 +22,13 @@ class MainActivity : AppCompatActivity() {
         val gamehistory = findViewById(R.id.gamehistory) as TextView
         val inputerror = findViewById(R.id.inputerror) as TextView
 
-        var randomValue=0;
+        //Choosing a random number between 0 and 1000
+        var randomValue = Random.nextInt(0, 1000)
+        println("randomValue "+randomValue)
 
         // set on-click listener
         newgame.setOnClickListener {
-            //Choosing a random number between 0 and 1000
+
             randomValue = Random.nextInt(0, 1000)
             println("randomValue "+randomValue)
 
